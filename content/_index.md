@@ -35,7 +35,7 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
-        - title: Creditreform
+        - title: Verband der Vereine Creditreform e.V.
           company: Java Backend Developer
           company_url: ''
           company_logo: user
@@ -43,10 +43,9 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: |2-
-             Responsibilities include:
-             * Analysing
-             * Modelling
-             * Deploying
+             <b>Backend Entwicklung für eine Platform im Inkassoumfeld</b>
+
+             <b>Vorhersagemodelle mit Machine-Learning-Frameworks erstellen</b>
              <br>REST Services, TDD, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5,  Maven, Git, Jenkins, Sonar, JIRA, Confluence
         - title: Accenture
           company: Java Backend Developer
@@ -78,12 +77,12 @@ sections:
           date_end: '2023-09-01'
           description: 
         - title: Hochschule Bochum
-          company: Bachelor of Science
+          company: B. Eng. Geoinformatik
           company_url: ''
           company_logo: book
           location: Bochum
           date_start: '2012-08-01'
-          date_end: '2017-08-31'
+          date_end: '2017-07-31'
           description:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
