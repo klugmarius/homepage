@@ -36,7 +36,7 @@ sections:
       date_format: Jan 2006
       items:
         - title: Verband der Vereine Creditreform e.V.
-          company: Java Backend Developer
+          company: Rollen: Java Backend Developer / Data Scientist
           company_url: ''
           company_logo: user
           location: Neuss
@@ -56,7 +56,7 @@ sections:
              <b>Auswertung von Texten</b>
 
              Erkentisse aus Texten gewinnen mit z.b. Sentimentanalysen 
-             <br>Tech: <i>: Python, Scikit-learn, Tensorflow, PyCharm, CRISP, NLP, Statistik, XGBoost, OLS</i> 
+             <br>Tech: <i> Python, Scikit-learn, Tensorflow, PyCharm, CRISP, NLP, Statistik, XGBoost, OLS</i> 
         - title: Accenture
           company: Software Developer
           company_url: ''
