@@ -45,19 +45,18 @@ sections:
           description: |2-
              <b>Backend Entwicklung für eine Platform im Inkassoumfeld</b>
 
-             Entwicklung nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln.
+             Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln.
 
-             
-             REST Services, TDD, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5,  Maven, Git, Jenkins, Sonar, JIRA, Confluence
+             Tech: <i>REST Services, TDD, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5,  Maven, Git, Jenkins, Sonar, JIRA, Confluence</i>
 
-             <b>Vorhersagemodelle mit Machine-Learning-Frameworks erstellen</b>
+             <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
 
-             Arbeit nach CRISP Standard um Vorhersagen über Kundenverhalten treffen zu können.
+             Arbeit nach CRISP Standard, mit Machine-Learning Methoden Vorhersagen über Kundenverhalten treffen.
 
              <b>Auswertung von Texten</b>
 
-             Erkentisse aus Texten gewinnen wie Sentimentanalysen 
-             <br>Python, Scikit-learn, Tensorflow, PyCharm, NLP, 
+             Erkentisse aus Texten gewinnen mit z.b. Sentimentanalysen 
+             <br>Tech: <i>: Python, Scikit-learn, Tensorflow, PyCharm, CRISP, NLP, Statistik, XGBoost, OLS</i> 
         - title: Accenture
           company: Software Developer
           company_url: ''
