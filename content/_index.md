@@ -36,7 +36,7 @@ sections:
       date_format: Jan 2006
       items:
         - title: Verband der Vereine Creditreform e.V.
-          company: Rollen: Java Backend Developer / Data Scientist
+          company: "Rollen: Java Backend Developer / Data Scientist"
           company_url: ''
           company_logo: user
           location: Neuss
