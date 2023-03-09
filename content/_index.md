@@ -38,7 +38,7 @@ sections:
         - title: Creditreform
           company: Java Backend Developer
           company_url: ''
-          company_logo: 
+          company_logo: user
           location: Neuss
           date_start: '2019-09-01'
           date_end: ''
@@ -51,7 +51,7 @@ sections:
         - title: Accenture
           company: Java Backend Developer
           company_url: ''
-          company_logo: 
+          company_logo: user
           location: Düsseldorf
           date_start: '2017-08-01'
           date_end: '2019-08-31'
@@ -72,15 +72,15 @@ sections:
         - title: Hochschule für Oekonomie und Management
           company: M.Sc. Big Data & Business Analytics
           company_url: ''
-          company_logo: 
+          company_logo: book
           location: Düsseldorf
           date_start: '2020-09-01'
           date_end: '2023-09-01'
-          description:
+          description: 
         - title: Hochschule Bochum
           company: Bachelor of Science
           company_url: ''
-          company_logo: 
+          company_logo: book
           location: Bochum
           date_start: '2012-08-01'
           date_end: '2017-08-31'
