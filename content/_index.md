@@ -51,7 +51,7 @@ sections:
 
              <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
 
-             Arbeit nach CRISP Standard, mit Machine-Learning Methoden Vorhersagen über Kundenverhalten treffen.
+             Arbeit nach CRISP Standard und mithilfe von Machine-Learning Methoden.
 
              <b>Auswertung von Texten</b>
 
