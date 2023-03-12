@@ -65,10 +65,15 @@ sections:
           date_start: '2017-08-01'
           date_end: '2019-08-31'
           description: |2-
-            Responsibilities include:
-            * Analysing
-            * Modelling
-            * Deploying
+          Einführung eines Abrechnungssystem für EVU
+          (Energieversorgungsunternehmen)
+          
+          * Tägliche Arbeit nach agilen Methoden, Schnittstellen nach
+          Kundenabsprache entwickeln.
+          
+          Schulungen und Einarbeitungen für neue Mitarbeiter bereitstellen und
+          durchführen
+
             <br>REST Services, TDD, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5,  Maven, Git, Jenkins, Sonar, JIRA, Confluence
     design:
       columns: '2'
