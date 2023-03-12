@@ -57,7 +57,7 @@ sections:
                  <li>Erstellen von Qualitätsstandards und Best Practices</li>
                  <li>Teamziele erarbeiten und umsetzten</li>
             </ul>
-             <br>Tech: <i> Python, Scikit-learn, Tensorflow, PyCharm, CRISP, NLP, Statistik, XGBoost, OLS</i> 
+            Tech: <i> Python, Scikit-learn, Tensorflow, PyCharm, CRISP, NLP, Statistik, XGBoost, OLS</i> 
         - title: Accenture
           company: Software Developer
           company_url: ''
