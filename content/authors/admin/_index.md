@@ -10,7 +10,7 @@ last_name: Klug
 superuser: true
 
 # Role/position/tagline
-role: Java Backend Developer
+role:
 
 
 # Social/Academic Networking
