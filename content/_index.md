@@ -44,12 +44,10 @@ sections:
           date_end: ''
           description: |2-
              <b>Backend Entwicklung für eine Plattform im Inkassoumfeld</b>
-
              <ul><li>Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln.</li></ul>
-
              <br>
              Tech: <i>REST Services, Data Science, TDD, agil, Chapter Lead, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5, Maven, Git, Jenkins, JIRA, Confluence</i>
-
+             <br>
              <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
              <ul><li>Arbeit nach CRISP Standard und mithilfe von Machine-Learning Methoden einschl. Datenanalyse, -modellierung und -visualisierung</li></ul>
              <br>
@@ -90,7 +88,7 @@ sections:
           location: Düsseldorf
           date_start: '2020-09-01'
           date_end: '2023-09-01'
-          description: 
+          description:
         - title: Hochschule Bochum
           company: B. Eng. Geoinformatik
           company_url: ''
