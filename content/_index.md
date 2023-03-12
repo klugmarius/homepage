@@ -43,20 +43,16 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: |2-
-             <b>Backend Entwicklung für eine Platform im Inkassoumfeld</b>
+    <b>Backend Entwicklung für eine Plattform im Inkassoumfeld
+    *Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln
 
-             Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln.
+    <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
+    * Arbeit nach CRISP Standard und mithilfe von Machine-Learning Methoden einschl. Datenanalyse, -modellierung und -visualisierung
 
-             Tech: <i>REST Services, TDD, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5,  Maven, Git, Jenkins, Sonar, JIRA, Confluence</i>
-
-             <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
-
-             Arbeit nach CRISP Standard und mithilfe von Machine-Learning Methoden.
-
-             <b>Auswertung von Texten</b>
-
-             Erkentisse aus Texten gewinnen mit z.b. Sentimentanalysen 
-             <br>Tech: <i> Python, Scikit-learn, Tensorflow, PyCharm, CRISP, NLP, Statistik, XGBoost, OLS</i> 
+    <b>Arbeit als Chapter Lead für ein Team von Software-Entwickler</b>
+    * Weiterentwicklung von Entwicklern betreuen
+    * Erstellen von Qualitätsstandards und Best Practices
+    * Teamziele erarbeiten und umsetzten
         - title: Accenture
           company: Software Developer
           company_url: ''
