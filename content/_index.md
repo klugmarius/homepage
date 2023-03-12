@@ -43,7 +43,7 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: |2-
-    <b>Backend Entwicklung für eine Plattform im Inkassoumfeld
+    <b>Backend Entwicklung für eine Plattform im Inkassoumfeld</b>
     *Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln
 
     <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
