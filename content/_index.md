@@ -23,7 +23,7 @@ sections:
           icon_pack: fab
         - name: Data Science
           description: 
-          icon: brain
+          icon: atom
           icon_pack: fas
         - name: Scrum
           description: 
