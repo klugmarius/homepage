@@ -47,7 +47,7 @@ sections:
 
              <ul><li>Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln.</li></ul>
 
-             
+             <br>
              Tech: <i>REST Services, Data Science, TDD, agil, Chapter Lead, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5, Maven, Git, Jenkins, JIRA, Confluence</i>
 
              <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
