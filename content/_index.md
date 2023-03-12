@@ -45,10 +45,6 @@ sections:
           description: |2-
              <b>Backend Entwicklung für eine Plattform im Inkassoumfeld</b>
              <ul><li>Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln.</li></ul>
-             <br>
-             Tech: <i>REST Services, Data Science, TDD, agil, Chapter Lead, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5, Maven, Git, Jenkins, JIRA, Confluence</i>
-             <br>
-             <br>
              <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
              <ul><li>Arbeit nach CRISP Standard und mithilfe von Machine-Learning Methoden einschl. Datenanalyse, -modellierung und -visualisierung</li></ul>
              <b>Arbeit als Chapter Lead für ein Team von Software-Entwickler</b>
@@ -57,7 +53,7 @@ sections:
                  <li>Erstellen von Qualitätsstandards und Best Practices</li>
                  <li>Teamziele erarbeiten und umsetzten</li>
             </ul>
-            Tech: <i> Python, Scikit-learn, Tensorflow, PyCharm, CRISP, NLP, Statistik, XGBoost, OLS</i> 
+            Tech: <i> REST Services, Data Science, TDD, agil, Chapter Lead, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5, Maven, Git, Jenkins, JIRA, Confluence, ML, Python, Scikit-learn, Tensorflow, PyCharm, CRISP, NLP, Statistik, XGBoost, OLS</i> 
         - title: Accenture
           company: Software Developer
           company_url: ''
