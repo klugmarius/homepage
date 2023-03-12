@@ -43,9 +43,9 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: |2-
-             <b>Backend Entwicklung für eine Platform im Inkassoumfeld</b>
+             <b>Backend Entwicklung für eine Plattform im Inkassoumfeld</b>
 
-             Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln.
+             <ul><li>Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln.</li></ul>
 
              Tech: <i>REST Services, TDD, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5,  Maven, Git, Jenkins, Sonar, JIRA, Confluence</i>
 
