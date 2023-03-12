@@ -48,6 +48,7 @@ sections:
              <br>
              Tech: <i>REST Services, Data Science, TDD, agil, Chapter Lead, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5, Maven, Git, Jenkins, JIRA, Confluence</i>
              <br>
+             <br>
              <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
              <ul><li>Arbeit nach CRISP Standard und mithilfe von Machine-Learning Methoden einschl. Datenanalyse, -modellierung und -visualisierung</li></ul>
              <br>
@@ -57,7 +58,6 @@ sections:
                  <li>Erstellen von Qualitätsstandards und Best Practices</li>
                  <li>Teamziele erarbeiten und umsetzten</li>
             </ul>
-
              <br>Tech: <i> Python, Scikit-learn, Tensorflow, PyCharm, CRISP, NLP, Statistik, XGBoost, OLS</i> 
         - title: Accenture
           company: Software Developer
