@@ -47,15 +47,19 @@ sections:
 
              <ul><li>Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln.</li></ul>
 
-             Tech: <i>REST Services, TDD, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5,  Maven, Git, Jenkins, Sonar, JIRA, Confluence</i>
+             
+             Tech: <i>REST Services, Data Science, TDD, agil, Chapter Lead, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5, Maven, Git, Jenkins, JIRA, Confluence</i>
 
              <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
+             <ul><li>Arbeit nach CRISP Standard und mithilfe von Machine-Learning Methoden einschl. Datenanalyse, -modellierung und -visualisierung</li></ul>
 
-             Arbeit nach CRISP Standard und mithilfe von Machine-Learning Methoden.
+             <b>Arbeit als Chapter Lead für ein Team von Software-Entwickler</b>
+             <ul>
+                 <li>Weiterentwicklung von Entwicklern betreuen</li>
+                 <li>Erstellen von Qualitätsstandards und Best Practices</li>
+                 <li>Teamziele erarbeiten und umsetzten</li>
+            </ul>
 
-             <b>Auswertung von Texten</b>
-
-             Erkentisse aus Texten gewinnen mit z.b. Sentimentanalysen 
              <br>Tech: <i> Python, Scikit-learn, Tensorflow, PyCharm, CRISP, NLP, Statistik, XGBoost, OLS</i> 
         - title: Accenture
           company: Software Developer
@@ -65,11 +69,11 @@ sections:
           date_start: '2017-08-01'
           date_end: '2019-08-31'
           description: |2-
-            Responsibilities include:
-            * Analysing
-            * Modelling
-            * Deploying
-            <br>REST Services, TDD, Pair-Programming, IntelliJ IDEA, Java 17, SpringBoot 2, Docker, OpenAPI, JUnit5,  Maven, Git, Jenkins, Sonar, JIRA, Confluence
+             <b>Einführung eines Abrechnungssystem für EVU (Energieversorgungsunternehmen)</b>
+             <ul><li>Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln.</li></ul>
+             <b>Schulungen und Einarbeitungen für neue Mitarbeiter bereitstellen und durchführen</b>
+
+            <br>REST Services, PHP, PHP Storm, Bamboo, Jenkins, Sonar, JIRA, Confluence
     design:
       columns: '2'
   - block: experience
