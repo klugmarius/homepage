@@ -52,7 +52,7 @@ sections:
 
              <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
              <ul><li>Arbeit nach CRISP Standard und mithilfe von Machine-Learning Methoden einschl. Datenanalyse, -modellierung und -visualisierung</li></ul>
-
+             <br>
              <b>Arbeit als Chapter Lead für ein Team von Software-Entwickler</b>
              <ul>
                  <li>Weiterentwicklung von Entwicklern betreuen</li>
@@ -71,9 +71,10 @@ sections:
           description: |2-
              <b>Einführung eines Abrechnungssystem für EVU (Energieversorgungsunternehmen)</b>
              <ul><li>Tägliche Arbeit nach agilen Methoden, Schnittstellen nach Kundenabsprache entwickeln.</li></ul>
+             <br>
              <b>Schulungen und Einarbeitungen für neue Mitarbeiter bereitstellen und durchführen</b>
 
-            <br>REST Services, PHP, PHP Storm, Bamboo, Jenkins, Sonar, JIRA, Confluence
+            <br>Tech: <i> REST Services, PHP, PHP Storm, Bamboo, Jenkins, Sonar, JIRA, Confluence
     design:
       columns: '2'
   - block: experience
