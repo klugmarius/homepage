@@ -51,7 +51,6 @@ sections:
              <br>
              <b>Vorhersagemodelle für Kundenverhalten erstellen</b>
              <ul><li>Arbeit nach CRISP Standard und mithilfe von Machine-Learning Methoden einschl. Datenanalyse, -modellierung und -visualisierung</li></ul>
-             <br>
              <b>Arbeit als Chapter Lead für ein Team von Software-Entwickler</b>
              <ul>
                  <li>Weiterentwicklung von Entwicklern betreuen</li>
